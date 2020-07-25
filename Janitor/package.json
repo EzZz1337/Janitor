@@ -1,0 +1,12 @@
+{
+  "name": "janitor",
+  "version": "1.0.0",
+  "description": "Anti-Spambot written in Python!",
+  "main": "Janitor.py",
+  "scripts": {
+    "start": "Janitor.py",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "EzZz1337",
+  "license": "ISC"
+}
