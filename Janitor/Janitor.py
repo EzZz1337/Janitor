@@ -7,7 +7,7 @@ from Token import * # import Token
 
 
 client: Bot = commands.Bot(command_prefix='c!')
-client.remove_command('help')
+client.remove_command('help') # remove the help command
 
 
 
