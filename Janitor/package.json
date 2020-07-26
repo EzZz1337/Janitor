@@ -7,6 +7,6 @@
     "start": "Janitor.py",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "EzZz1337",
+  "author": "EzZz",
   "license": "ISC"
 }
